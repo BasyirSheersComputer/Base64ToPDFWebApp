@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\Base64ToPDFWebApp\Base64ToPDFWebApp\bin\Debug\net6.0\publish\Base64ToPDFWebApp.exe
+C:\Users\Admin\source\repos\Base64ToPDFWebApp\Base64ToPDFWebApp\bin\Debug\net6.0\publish\appsettings.Development.json
+C:\Users\Admin\source\repos\Base64ToPDFWebApp\Base64ToPDFWebApp\bin\Debug\net6.0\publish\appsettings.json
+C:\Users\Admin\source\repos\Base64ToPDFWebApp\Base64ToPDFWebApp\bin\Debug\net6.0\publish\Base64ToPDFWebApp.dll
+C:\Users\Admin\source\repos\Base64ToPDFWebApp\Base64ToPDFWebApp\bin\Debug\net6.0\publish\Base64ToPDFWebApp.deps.json
+C:\Users\Admin\source\repos\Base64ToPDFWebApp\Base64ToPDFWebApp\bin\Debug\net6.0\publish\Base64ToPDFWebApp.runtimeconfig.json
+C:\Users\Admin\source\repos\Base64ToPDFWebApp\Base64ToPDFWebApp\bin\Debug\net6.0\publish\Base64ToPDFWebApp.pdb
